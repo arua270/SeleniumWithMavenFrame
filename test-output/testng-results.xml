@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-20T16:51:59 PST" name="mysuite" finished-at="2023-02-20T16:52:40 PST" duration-ms="41101">
+    <groups>
+    </groups>
+    <test started-at="2023-02-20T16:51:59 PST" name="Firts Test" finished-at="2023-02-20T16:52:40 PST" duration-ms="41101">
+      <class name="com.jan23.tekarch.TakarchAutomation">
+        <test-method signature="loginToFirebase()[pri:0, instance:com.jan23.tekarch.TakarchAutomation@35e52059]" started-at="2023-02-20T16:51:59 PST" name="loginToFirebase" finished-at="2023-02-20T16:52:12 PST" duration-ms="13010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToFirebase -->
+        <test-method signature="student_Registration_Form()[pri:1, instance:com.jan23.tekarch.TakarchAutomation@35e52059]" started-at="2023-02-20T16:52:12 PST" name="student_Registration_Form" finished-at="2023-02-20T16:52:26 PST" duration-ms="13488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- student_Registration_Form -->
+        <test-method signature="autocompleteCountryWidget()[pri:2, instance:com.jan23.tekarch.TakarchAutomation@35e52059]" started-at="2023-02-20T16:52:26 PST" name="autocompleteCountryWidget" finished-at="2023-02-20T16:52:40 PST" duration-ms="14477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autocompleteCountryWidget -->
+      </class> <!-- com.jan23.tekarch.TakarchAutomation -->
+    </test> <!-- Firts Test -->
+  </suite> <!-- mysuite -->
+</testng-results>
